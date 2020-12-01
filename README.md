@@ -17,9 +17,9 @@ server built on nodejs v14.8.0 serves data from newsapi.org
 
 # environment variables
 * create .env file at root of directory and add below variables changing values appropriately 
-`PORT = 3000
+```PORT = 3000
 HOST = '127.0.0.1'
 KEY = [your api key]
 baseUrlEverything = 'https://newsapi.org/v2/everything'
 baseUrlHeadlines = 'https://newsapi.org/v2/top-headlines'
-pageSize = 10`
+pageSize = 10```
